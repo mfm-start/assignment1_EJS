@@ -1,0 +1,27 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "assignment session 5 - express EJS - Muhammad Faqihuddin M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfm-start/assignment1_EJS.git"
+  },
+  "keywords": [
+    "express",
+    "EJS"
+  ],
+  "author": "Muhammad Faqihuddin M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfm-start/assignment1_EJS/issues"
+  },
+  "homepage": "https://github.com/mfm-start/assignment1_EJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
